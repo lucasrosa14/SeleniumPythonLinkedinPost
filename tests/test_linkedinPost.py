@@ -11,12 +11,12 @@ class TestLinkedinPost:
         loginPage = LoginPage()
         homePage = HomePage()
 
-        username = "lucassr91@live.com"
-        password = "luro0216"
+        username = "insira o email aqui"
+        password = "insira a senha aqui"
 
         postText = "Esse post foi feito através de uma automação de testes da página do Linkedin, " \
                    "utilizando Selenium Webdriver e Python.\n" \
-                   "Link para o projeto: \n" \
+                   "Link para o projeto: https://github.com/lucasrosa14/SeleniumPythonLinkedinPost \n" \
                    "Obs.: nome de usuário e senha foram suprimidos do código fonte do teste para garantir " \
                    "privacidade.\n" \
                    "Deixe seu like para aumentar o engajamento."
